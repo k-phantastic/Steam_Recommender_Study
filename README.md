@@ -51,12 +51,12 @@ _studies_results.png)
 
 | Notebook | Contents | Author |
 |:--|:--|:--|
-| `notebooks/00_eda_games_reviews_bundles.ipynb` | EDA of game metadata, reviews and bundles | Khanh Phan |
-| `notebooks/01_eda_reviews_playtime.ipynb` | EDA of reviews and hours played | Layth Marabeh |
-| `notebooks/10_playtime_baseline_ridge.ipynb` | Study 1: average baseline vs. Ridge | Layth Marabeh |
-| `notebooks/11_playtime_xgboost_hybrid.ipynb` | Study 1: XGBoost and the hybrid model, with plots | Danny Xia |
-| `notebooks/20_genre_sample_100k.ipynb` | Study 2: development run on a 100K sample | Khanh Phan |
-| `notebooks/21_genre_full_model.ipynb` | Study 2: final model on the full data | Khanh Phan |
+| `00_eda_games_reviews_bundles.ipynb` | EDA of game metadata, reviews and bundles | Khanh Phan |
+| `01_eda_reviews_playtime.ipynb` | EDA of reviews and hours played | Layth Marabeh |
+| `10_playtime_baseline_ridge.ipynb` | Study 1: average baseline vs. Ridge | Layth Marabeh |
+| `11_playtime_xgboost_hybrid.ipynb` | Study 1: XGBoost and the hybrid model, with plots | Danny Xia |
+| `20_genre_sample_100k.ipynb` | Study 2: development run on a 100K sample | Khanh Phan |
+| `21_genre_full_model.ipynb` | Study 2: final model on the full data | Khanh Phan |
 
 Notebook names follow `NN_study_step`: `0x` = shared EDA, `1x` = Study 1, `2x` = Study 2. Charts are in `images/`.
 
